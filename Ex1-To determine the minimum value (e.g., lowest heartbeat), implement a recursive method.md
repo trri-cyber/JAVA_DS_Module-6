@@ -4,8 +4,8 @@
 10.11.2025  
 
 ### Developed by
-**Name:** Kishore B  
-**Register Number:** 212224100032  
+**Name:** Rishab p Doshi 
+**Register Number:** 212224240134  
 
 ---
 
@@ -29,8 +29,8 @@ To write a Java program to determine the minimum value (e.g., lowest heartbeat) 
 ```java
 /**
  * Program: Determine the minimum value (e.g., lowest heartbeat) using recursion
- * Developed by: Kishore B
- * Register Number: 212224100032
+ * Developed by: Rishab p Doshi
+ * Register Number: 212224240134
  */
 import java.util.Scanner;
 
