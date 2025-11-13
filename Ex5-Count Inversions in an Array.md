@@ -20,8 +20,8 @@ To write a Java program to count the number of inversions in an array where inve
 ```java
 /*
 Program to Count the number of inversions in an array where inversion is defined as: arr[i] > arr[j] and i < j
-Developed by: Kishore B
-RegisterNumber: 212224100032
+ * Developed by: Rishab p Doshi
+ * Register Number: 212224240134
 */
 import java.util.Scanner;
 
