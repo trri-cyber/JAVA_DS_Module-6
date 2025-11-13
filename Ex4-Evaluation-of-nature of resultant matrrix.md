@@ -19,8 +19,8 @@ To write a Java function to evaluate whether Matrix A has all odd numbers and Ma
 ```java
 /*
 Program to find the nature of the resultant matrix.
-Developed by: Kishore B
-RegisterNumber: 212224100032
+ * Developed by: Rishab p Doshi
+ * Register Number: 212224240134
 */
 import java.util.Scanner;
 
